@@ -1,6 +1,14 @@
 # Taboo Game - 害你在心口难开
 
 ![image](https://github.com/user-attachments/assets/b335b66a-8005-4f93-bf18-d3a9ad960f3d)
+![image](https://github.com/user-attachments/assets/6c2db62c-7a9b-4b69-8ecf-89274c54ff13)
+![image](https://github.com/user-attachments/assets/e2387f48-47e0-427c-b699-289b269127ac)
+![image](https://github.com/user-attachments/assets/f4380f28-a056-4eac-9a31-b676a32c359a)
+![image](https://github.com/user-attachments/assets/47c39ac0-20c1-416a-b27c-d8f922cfaf68)
+
+
+
+
 
 ## 项目简介
 
