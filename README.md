@@ -1,6 +1,6 @@
 # Taboo Game - 害你在心口难开
 
-![游戏截图](https://screenshot.png/) <!-- 你可以替换为实际的游戏截图 -->
+![image](https://github.com/user-attachments/assets/b335b66a-8005-4f93-bf18-d3a9ad960f3d)
 
 ## 项目简介
 
